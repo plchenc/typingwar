@@ -1,0 +1,5 @@
+{
+  "name": "Typing War: Word Defender",
+  "description": "A pixel-art typing game where you defend your fleet by typing words to fire at enemy ships. Includes difficulty levels, word lists, and a leaderboard.",
+  "requestFramePermissions": []
+}
